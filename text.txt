@@ -1,0 +1,4 @@
+meat
+eggs
+cheese
+fish
